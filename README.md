@@ -1,5 +1,5 @@
 # METIL
-PDF AI Assistant
+PDF RAG AI Assistant
 
 This project is a Python-based AI assistant that extracts information from  multiple PDF files in a folder, processes the text into chunks, generates embeddings using OpenAI's API, and stores them in a FAISS index for efficient querying. The assistant then uses GPT-3.5 (or GPT-4) to answer user questions based on the content of the PDFs.
 
